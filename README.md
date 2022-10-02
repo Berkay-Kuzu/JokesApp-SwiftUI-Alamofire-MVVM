@@ -1,1 +1,2 @@
 # JokesApp-SwiftUI-Alamofire-MVVM
+This is an app built with SwiftUI and designed with MVVM design patttern. I formed Model file with structs which have Identifiable protocol and Codable typealias. In SwiftUI, it is obligatory to use Identifiable protocol in order to demonstrate list view on the screen. As for codable typealias, it is combination of decodable and encodable protocols. I used these two protocols for Json decoding and encoding.
